@@ -14,7 +14,7 @@ def speak(search):
     salva.say(search)
     salva.runAndWait()
 
-speak("""  Hello bruce, How are you ?
+speak("""  Hello Adolphe, How are you ?
                      """)
 
 r=sr.Recognizer()
